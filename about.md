@@ -4,8 +4,8 @@ permalink: "/about/"
 layout: page
 ---
 
-## About
-
 1. One
-1. Two
-1. Three
+
+2. Two
+
+3. Three
