@@ -10,4 +10,4 @@ layout: page
 
 3. Three
 
-![IMG_1646.JPG](/uploads/IMG_1646.JPG =250x)
+![IMG_1646.JPG](/uploads/IMG_1646.JPG | width=250)
